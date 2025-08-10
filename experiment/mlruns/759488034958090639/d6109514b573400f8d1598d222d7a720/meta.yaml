@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/vedantdilip/Price-Prediction_Regression/experiment/mlruns/759488034958090639/d6109514b573400f8d1598d222d7a720/artifacts
+end_time: 1754804909882
+entry_point_name: ''
+experiment_id: '759488034958090639'
+lifecycle_stage: active
+run_id: d6109514b573400f8d1598d222d7a720
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754804909874
+status: 3
+tags: []
+user_id: vedantdilip

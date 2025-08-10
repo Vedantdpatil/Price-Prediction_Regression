@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/vedantdilip/Price-Prediction_Regression/experiment/mlruns/759488034958090639/70d672e379a54da4bf45fd5a05735ae8/artifacts
+end_time: 1754804909873
+entry_point_name: ''
+experiment_id: '759488034958090639'
+lifecycle_stage: active
+run_id: 70d672e379a54da4bf45fd5a05735ae8
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754804909860
+status: 3
+tags: []
+user_id: vedantdilip

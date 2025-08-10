@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/vedantdilip/Price-Prediction_Regression/experiment/mlruns/759488034958090639/2eb45cded4ce4f90bb5081f8d4d0c746/artifacts
+end_time: 1754804909909
+entry_point_name: ''
+experiment_id: '759488034958090639'
+lifecycle_stage: active
+run_id: 2eb45cded4ce4f90bb5081f8d4d0c746
+run_name: Ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754804909901
+status: 3
+tags: []
+user_id: vedantdilip

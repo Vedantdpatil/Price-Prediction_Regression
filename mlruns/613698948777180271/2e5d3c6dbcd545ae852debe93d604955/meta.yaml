@@ -1,0 +1,14 @@
+artifact_uri: /Users/vedantdilip/Price-Prediction_Regression/mlruns/613698948777180271/2e5d3c6dbcd545ae852debe93d604955/artifacts
+end_time: 1754832367271
+entry_point_name: ''
+experiment_id: '613698948777180271'
+lifecycle_stage: active
+run_id: 2e5d3c6dbcd545ae852debe93d604955
+run_name: pipeline_evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754832365743
+status: 3
+tags: []
+user_id: vedantdilip

@@ -1,0 +1,10 @@
+artifact_location: /Users/vedantdilip/Price-Prediction_Regression/mlruns/613698948777180271/models/m-1ba8108e79d6422a9225d552af1a451b/artifacts
+creation_timestamp: 1754832487693
+experiment_id: '613698948777180271'
+last_updated_timestamp: 1754832489214
+model_id: m-1ba8108e79d6422a9225d552af1a451b
+model_type: null
+name: model
+source_run_id: 37b3f2ee53a1413393aa8d6fdfdf904d
+status: 2
+status_message: null

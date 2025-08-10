@@ -1,0 +1,22 @@
+artifact_path: /Users/vedantdilip/Price-Prediction_Regression/mlruns/613698948777180271/models/m-adaaa22421a448d4a0dccc00e8b87ca6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-adaaa22421a448d4a0dccc00e8b87ca6
+model_size_bytes: 439506
+model_uuid: m-adaaa22421a448d4a0dccc00e8b87ca6
+prompts: null
+run_id: 2e5d3c6dbcd545ae852debe93d604955
+utc_time_created: '2025-08-10 13:26:05.759721'

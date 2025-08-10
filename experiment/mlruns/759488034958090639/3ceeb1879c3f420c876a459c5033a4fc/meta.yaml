@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/vedantdilip/Price-Prediction_Regression/experiment/mlruns/759488034958090639/3ceeb1879c3f420c876a459c5033a4fc/artifacts
+end_time: 1754804909918
+entry_point_name: ''
+experiment_id: '759488034958090639'
+lifecycle_stage: active
+run_id: 3ceeb1879c3f420c876a459c5033a4fc
+run_name: ElasticNet
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754804909910
+status: 3
+tags: []
+user_id: vedantdilip

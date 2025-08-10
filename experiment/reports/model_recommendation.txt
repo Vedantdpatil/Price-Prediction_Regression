@@ -1,0 +1,12 @@
+Gemstone Price Models — Simple Report
+-------------------------------------
+           Model     R2    RMSE    MAE
+         XGBoost 0.9786  588.12 296.35
+    RandomForest 0.9770  609.31 308.88
+LinearRegression 0.9363 1014.63 675.08
+           Lasso 0.9363 1014.63 675.08
+           Ridge 0.9363 1014.63 675.11
+      ElasticNet 0.9362 1015.10 677.52
+
+Recommendation:
+- Choose **XGBoost** → R2=0.9786, RMSE=588.12, MAE=296.35
